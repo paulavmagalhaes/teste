@@ -1,0 +1,37 @@
+			@font-face {
+				font-family: 'newgrotesksquare-4';
+				font-style: normal;
+				src: url('/almap/wp-content/uploads/useanyfont/180715094036NewGroteskSquare-4.eot');
+				src: local('newgrotesksquare-4'), url('/almap/wp-content/uploads/useanyfont/180715094036NewGroteskSquare-4.eot') format('embedded-opentype'), url('/almap/wp-content/uploads/useanyfont/180715094036NewGroteskSquare-4.woff') format('woff');
+			}
+            
+            .et_gf_newgrotesksquare-4{background:none !important;font-family:newgrotesksquare-4;text-indent:0 !important;font-size:25px;}
+            
+					@font-face {
+				font-family: 'circularstd-medium';
+				font-style: normal;
+				src: url('/almap/wp-content/uploads/useanyfont/180715094304CircularStd-Medium.eot');
+				src: local('circularstd-medium'), url('/almap/wp-content/uploads/useanyfont/180715094304CircularStd-Medium.eot') format('embedded-opentype'), url('/almap/wp-content/uploads/useanyfont/180715094304CircularStd-Medium.woff') format('woff');
+			}
+            
+            .et_gf_circularstd-medium{background:none !important;font-family:circularstd-medium;text-indent:0 !important;font-size:25px;}
+            
+					@font-face {
+				font-family: 'circularstd-bold';
+				font-style: normal;
+				src: url('/almap/wp-content/uploads/useanyfont/180719040757CircularStd-Bold.eot');
+				src: local('circularstd-bold'), url('/almap/wp-content/uploads/useanyfont/180719040757CircularStd-Bold.eot') format('embedded-opentype'), url('/almap/wp-content/uploads/useanyfont/180719040757CircularStd-Bold.woff') format('woff');
+			}
+            
+            .et_gf_circularstd-bold{background:none !important;font-family:circularstd-bold;text-indent:0 !important;font-size:25px;}
+            
+					@font-face {
+				font-family: 'circularstd-black';
+				font-style: normal;
+				src: url('/almap/wp-content/uploads/useanyfont/180719040931CircularStd-Black.eot');
+				src: local('circularstd-black'), url('/almap/wp-content/uploads/useanyfont/180719040931CircularStd-Black.eot') format('embedded-opentype'), url('/almap/wp-content/uploads/useanyfont/180719040931CircularStd-Black.woff') format('woff');
+			}
+            
+            .et_gf_circularstd-black{background:none !important;font-family:circularstd-black;text-indent:0 !important;font-size:25px;}
+            
+		

@@ -1,0 +1,303 @@
+/*
+Theme Name: Foundry Child
+Theme URI: 
+Description: Child theme for the Foundry theme
+Author: <a href="http://www.madeinebor.com">Tom Rhodes</a>
+Author URI: 
+Template: foundry
+Version: 1.0.0
+*/
+
+@import url('../foundry/style.css');
+.vc_gitem-zone.vc_gitem-zone-b.vc_custom_1418993682046.vc-gitem-zone-height-mode-auto.vc_gitem-is-link {
+    border: none !important;
+}
+ul.vc_chart-legend {
+    display: none !important;
+}
+
+.header-data-insights h1 {
+    margin-top: 7%;
+}
+
+.vc_color-pink.vc_message_box-solid {
+    color: #fff;
+    border-color: transparent;
+    background-color: #ff413c;
+}
+
+
+.vc_gitem-animate-scaleIn {
+    overflow: visible;
+}
+.vc_gitem-post-data {
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
+
+.vc_col-sm-12.hover-titulo.vc_gitem-col.vc_gitem-col-align- {
+    background: #000000b8;
+	    color: #fff;
+    padding: 20px;
+}
+
+body {
+    font-size: 16px;
+}
+.titulo-navegacao h2 {
+    color: #ff413c;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: -20px;
+    font-size: 30px;
+    line-height: initial;
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol, pre, table, blockquote, input, button, select, textarea {
+    margin-bottom: 10px;
+    margin-top: 0;
+    padding: 0;
+}
+
+.barra-grafico small.vc_label {
+    color: #000 !important;
+}
+h1 {
+    font-size: 12rem;
+    letter-spacing: 3px;
+}
+
+.mencoes img {
+    margin-bottom: -15px !important;
+}
+
+.redes-sociais .wpb_single_image {
+    margin-bottom: 0px;
+}
+
+.redes-sociais .preferida img {
+    max-width: 85%;
+}
+
+.redes-sociais img {
+    max-width: 70%;
+}
+
+.secao2-coluna {
+    margin: 0;
+    padding: 0px;
+}
+
+span.number:after {
+    content: '%';
+}
+
+.destaque-frase span {
+    line-height: 1.1;letter-spacing: 1px;
+}
+
+span.number {
+    font-family: 'newgrotesksquare-4';
+    color: #ff413c !important;
+    font-size: 80px !important;
+}
+.statistics .stat {
+    display: block;
+    margin: 35px 25px;
+    line-height: 0.8;
+    float: left;
+}
+
+.vc_custom_1531879101470 {
+    margin-top: -25px !important;
+    float: left;
+    margin-bottom: 0;
+}
+
+.idade-vertical {
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+
+h2.wpb_heading.wpb_progress_bar_heading {
+    font-size: 19px;
+}
+
+.vc_progress_bar .vc_single_bar {
+    background: #ffffff;
+    position: relative;
+    margin-bottom: 11.67px;
+     -webkit-box-shadow: 0 0px 0px rgba(0,0,0,.1) inset; 
+     box-shadow: 0 0px 0px rgba(0,0,0,.1) inset; 
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+small.vc_label {
+    padding: 0 10px !important
+}
+.vc_progress_bar .vc_single_bar {
+    margin-bottom: 2.67px !important;
+    height: 20px;
+}
+
+.vc_progress_bar.wpb_content_element.vc_progress-bar-color-bar_grey {
+    margin-bottom: 0;
+}
+
+h2.wpb_heading.wpb_progress_bar_heading {
+    font-size: 20px;
+    margin-bottom: 0px;
+    line-height: 25px;
+}
+
+.midias .vc_progress_bar .vc_single_bar {
+    background: #e7e9e4;
+}
+
+img.alignnone.wp-image-146 {
+    margin-bottom: -20px;
+}
+
+.generos-consumidos .wpb_single_image.wpb_content_element.vc_align_left {
+    margin-bottom: 0;
+}
+
+span.vc_label_units:before {
+    content: '- ';
+}
+
+.barra-grafico.um .vc_general.vc_single_bar.vc_progress-bar-color-bar_red {
+    background: #e7e9e4;
+}
+
+.menu li {
+    float: none;
+    display: inline-block;
+}
+
+.menu {
+    text-align: right;
+    margin-bottom: -10px;
+}
+
+section.cover.image-slider.slider-all-controls.controls-inside.parallax {
+    margin-bottom: 0;
+}
+h1 {
+    font-size: 12rem;
+    letter-spacing: 3px;
+    line-height: 11rem;
+}
+.artes-barra {
+    text-align: right;
+    line-height: 1.5;
+    margin-top: 28px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.barra-progresso-interesses .vc_general.vc_single_bar {
+    width: 200%;    background: none;
+}
+
+section.cover.image-slider.slider-all-controls.controls-inside.parallax {
+    margin-bottom: 0;
+}
+h1 {
+    font-size: 12rem;
+    letter-spacing: 3px;
+    line-height: 11rem;
+}
+.artes-barra {
+    text-align: right;
+    line-height: 1.54;
+    margin-top: 28px;
+    text-transform: uppercase;
+    font-size: 21px;
+    font-weight: 900;
+}
+
+.barra-progresso-interesses .vc_general.vc_single_bar {
+    width: 200%;    background: none;height: 30px;
+}
+
+.back-to-top {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+    color: #000 !important;
+}
+
+.vc_progress_bar.wpb_content_element.barra-progresso-interesses.vc_progress-bar-color-bar_grey {
+    margin-top: 25px;
+}
+
+.barra-progresso-interesses .vc_general.vc_single_bar small {
+    font-size: 19px;
+    line-height: 1.6;
+}
+
+a.back-to-top:hover {
+    text-decoration: underline;
+    color: #ff413c !important;
+}
+@media only screen and (max-width: 600px) {
+	
+h1 {
+    font-size: 55px;
+    line-height: 1.1;
+}
+	
+	p {
+    font-size: 13px;
+}
+	
+.secao2-coluna .vc_column-inner {
+    padding: 0 20px !important;
+}
+	
+	.vc_column-inner.vc_custom_1532490071347, .vc_custom_1531978183983, .vc_column-inner.vc_custom_1531978183983, .vc_column-inner.vc_custom_1531978163414 {
+    border-left-width: 0px !important;
+}
+	
+	.timeline {
+    display: none;
+}
+	
+	.vc_column-inner.vc_custom_1531978183983, .vc_column-inner.vc_custom_1531978252198 {
+    padding: 0 10px !important;
+}
+	.statistics .stat {
+        width: 27.3%;
+    margin: 18px 8px;
+    line-height: 1;
+}
+	
+	span.number {
+    font-family: 'newgrotesksquare-4';
+    color: #ff413c !important;
+    font-size: 50px !important;
+}
+	
+	.idade-vertical {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+	
+	.vc_empty_space.espaco-influenciadores {
+    display: none;
+}
+	
+	.secao2 {
+    padding: 0 20px;
+}
+	
+	.generos-consumidos.wpb_column.vc_column_container.col-md-2 {
+    display: none;
+}
+	
+}
